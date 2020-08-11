@@ -23,4 +23,4 @@ E caso queira criar um projeto pessoal utilizando o Top-Level Statement, enquant
 	</PropertyGroup>
 </Project>
 ```
-Para muitas aplicações, as declarações top-level do C # 9 não oferecem nenhuma vantagem. Porém, para criar criar pequenas aplicações e também para aprender C#, as instruções top-level é um bom aprimoramento. Não é mais necessário definir um método Main e, com isso, uma classe também não é necessária.
+Para muitas aplicações, as declarações top-level do C# 9.0 não oferecem nenhuma vantagem. Porém, para criar criar pequenas aplicações e também para aprender C#, as instruções top-level é um bom aprimoramento. Não é mais necessário definir um método Main e, com isso, uma classe também não é necessária.
