@@ -1,0 +1,13 @@
+D:\Users\william.menegaldi\Desktop\PoC\TopLevel\bin\Debug\net5.0\TopLevel.exe
+D:\Users\william.menegaldi\Desktop\PoC\TopLevel\bin\Debug\net5.0\TopLevel.deps.json
+D:\Users\william.menegaldi\Desktop\PoC\TopLevel\bin\Debug\net5.0\TopLevel.runtimeconfig.json
+D:\Users\william.menegaldi\Desktop\PoC\TopLevel\bin\Debug\net5.0\TopLevel.runtimeconfig.dev.json
+D:\Users\william.menegaldi\Desktop\PoC\TopLevel\bin\Debug\net5.0\TopLevel.dll
+D:\Users\william.menegaldi\Desktop\PoC\TopLevel\bin\Debug\net5.0\TopLevel.pdb
+D:\Users\william.menegaldi\Desktop\PoC\TopLevel\obj\Debug\net5.0\TopLevel.csprojAssemblyReference.cache
+D:\Users\william.menegaldi\Desktop\PoC\TopLevel\obj\Debug\net5.0\TopLevel.AssemblyInfoInputs.cache
+D:\Users\william.menegaldi\Desktop\PoC\TopLevel\obj\Debug\net5.0\TopLevel.AssemblyInfo.cs
+D:\Users\william.menegaldi\Desktop\PoC\TopLevel\obj\Debug\net5.0\TopLevel.csproj.CoreCompileInputs.cache
+D:\Users\william.menegaldi\Desktop\PoC\TopLevel\obj\Debug\net5.0\TopLevel.dll
+D:\Users\william.menegaldi\Desktop\PoC\TopLevel\obj\Debug\net5.0\TopLevel.pdb
+D:\Users\william.menegaldi\Desktop\PoC\TopLevel\obj\Debug\net5.0\TopLevel.genruntimeconfig.cache
